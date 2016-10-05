@@ -4,7 +4,7 @@ Export a transaction CSV in Mint and use this tool to clean it for import into Y
 
 ## Installation
 ```sh
-$ npm i -g mint-ynab
+$ npm i -g mintynab
 ```
 
 ## Usage

@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 var csv = require('csv-parser');
 var fs = require('fs');
 var output = '';
